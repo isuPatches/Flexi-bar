@@ -2,6 +2,13 @@
 
 > *Developed by Patches 2010 - current
 
+> For documentation and usage see: 
+- https://github.com/isuPatches/Flexi-bar/wiki/Why-Use-Flexi-bar 
+- https://github.com/isuPatches/Flexi-bar/wiki/How-To---Setup-Flexi-bar
+- https://github.com/isuPatches/Flexi-bar/wiki/Demo-Screenshots
+
+>See it live here: https://www.rockthepatch.com/
+
 ###Technical
 
 ####Languages used:
@@ -15,6 +22,7 @@
 ####Tools used:
 
 - EasyPHP 14.1
+- Intellij
 
 ####Supported Browers:
 
