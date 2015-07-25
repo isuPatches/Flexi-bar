@@ -1,4 +1,22 @@
-## v1.0 - 07/25/2015
+## v1.0.1 - 07/25/2015
+
+##### Merge branch 'hotfix/issue3'
+commit 5bdaaebc2e4f7269f4b64c75d3dcfa727a4afe40
+Merge: 904eaa0 12f824d
+Author: Patches <isuPatches@yahoo.com>
+Date:   Sat Jul 25 14:20:20 2015 -0500
+
+##### fixes #3
+commit 12f824dce06a6119acfb0ee9f7c67214837786bb
+Author: Patches <isuPatches@yahoo.com>
+Date:   Sat Jul 25 14:14:10 2015 -0500
+
+##### Update CHANGELOG.md
+commit 904eaa0fd1d4252a62571bb21613e766b4e8773b
+Author: Patches <isuPatches@yahoo.com>
+Date:   Sat Jul 25 11:55:54 2015 -0500
+
+## v1.0.0 - 07/25/2015
 
 #####  Merge branch 'release/1.0'
 commit 049a37657d37e8437836ccd87483c0478ad74a59 <br/>
