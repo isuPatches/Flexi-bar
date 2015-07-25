@@ -1,0 +1,103 @@
+/**
+* General Styles
+*/
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    width: 100%;
+}
+
+.clear {
+    clear: both;
+}
+
+/**
+* Styles for flexi-bar
+*/
+#flexi-bar {
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    background: #111111;
+    border-top: 1px #ffffff solid;
+    border-bottom: 1px #ffffff solid;
+    text-align: center;
+    z-index: 3;
+}
+
+#flexi-bar ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-weight: bold;
+}
+
+#flexi-bar ul li {
+    display: inline-block;
+    padding: 0;
+    margin: 0;
+    border: 1px #76FF03 solid;
+    text-align: center;
+}
+
+#flexi-bar ul li a {
+    display: inline-block;
+    width: 165px;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1.0em;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin: 0;
+}
+
+#flexi-bar ul li:hover {
+    background: #76FF03;
+    border: 1px #ffffff solid;
+}
+
+#flexi-bar ul li ul {
+    display: none;
+    z-index: 3;
+}
+
+#flexi-bar ul li:hover ul {
+    display: block;
+    position: absolute;
+    margin: 0;
+    padding: 0;
+}
+
+#flexi-bar ul li:hover ul li {
+    display: block;
+    width: 180px;
+    background: #111111;
+    border-left: 1px #ffffff solid;
+    border-bottom: 1px #ffffff solid;
+    border-top: 1px #ffffff solid;
+}
+
+#flexi-bar ul li:hover ul li a {
+    color: #ffffff;
+    font-size: 1.0em;
+}
+
+#flexi-bar ul li:hover ul li:hover {
+    background: #76FF03;
+}
+
+#flexi-bar ul li:hover a, #flexi-bar ul li:hover ul li:hover a {
+    color: #111111;
+}
+
+#flexi-bar ul li.current, #flexi-bar ul li ul li.current {
+    background: #424242;
+    color: #fff;
+}
+
+#flexi-bar ul li.current:hover, #flexi-bar ul li ul li.current:hover {
+    background: #99FF00;
+    color: #fff;
+}

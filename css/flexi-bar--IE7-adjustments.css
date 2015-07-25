@@ -1,0 +1,9 @@
+#flexi-bar ul li {
+    display: inline;
+}
+
+#flexi-bar ul li:hover ul {
+    position: absolute;
+    margin-top: 34px;
+    margin-left: -171px;
+}
