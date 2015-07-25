@@ -1,5 +1,21 @@
 ## v1.0 - 07/25/2015
 
+#####  Merge branch 'release/1.0'
+commit 049a37657d37e8437836ccd87483c0478ad74a59 <br/>
+Merge: 271792d 9b7f2fa <br/>
+Author: Patches <isuPatches@yahoo.com> <br/>
+Date:   Sat Jul 25 11:51:45 2015 -0500 <br/>
+
+##### Update CHANGELOG.md
+commit 9b7f2fa8f61158d21dd8f0a2ac2fe5717991ec63 <br/>
+Author: Patches <isuPatches@yahoo.com><br/>
+Date:   Sat Jul 25 11:49:56 2015 -0500<br/>
+
+##### Update CHANGELOG.md
+commit fcf0c78a517dff524c48dda30d378a54ce0b7dd3 <br/>
+Author: Patches <isuPatches@yahoo.com> <br/>
+Date:   Sat Jul 25 11:47:21 2015 -0500 <br/>
+
 ##### Change log updates
 commit ee4e70dcfb5570e6fa03b2e28bf7a17178ed773c <br/>
 Author: Patches <isuPatches@yahoo.com><br/>
