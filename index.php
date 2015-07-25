@@ -37,7 +37,7 @@
 
     <!-- ### Style Adjustments for Flexibar on IE 7 ### -->
     <!--[if IE 7]>
-        <link rel="stylesheet" href="/css/flexi-bar--IE7-adjustments.css" type="text/css" media="screen"/>
+        <link rel="stylesheet" href="/css/flexi-bar-IE7-adjustments.css" type="text/css" media="screen"/>
     <![endif]-->
 </head>
 <!-- ### END Head ### -->
