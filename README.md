@@ -1,4 +1,4 @@
-## Flexi-bar
+## Flexibar
 
 > *Developed by Patches 2010 - current
 
